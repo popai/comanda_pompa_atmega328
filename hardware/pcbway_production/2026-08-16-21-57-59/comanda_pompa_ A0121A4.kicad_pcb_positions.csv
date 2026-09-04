@@ -1,0 +1,42 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+3.815,4.065,90.0,top,C1,,,C_Disc_D3.0mm_W1.6mm_P2.50mm,100nF/C0603,tht
+34.375,6.8,-90.0,top,C2,,,C_Disc_D3.0mm_W1.6mm_P2.50mm,22pF,tht
+19.225,6.725,-90.0,top,C3,,,C_Disc_D3.0mm_W1.6mm_P2.50mm,22pF,tht
+71.075,17.982,180.0,top,D10,,,Diode_Bridge_Round_D9.0mm,RB151,tht
+71.4545,39.402,90.0,top,D2,,,D_A-405_P10.16mm_Horizontal,1N4148,tht
+4.9905,52.814,0.0,top,H1,,,MountingHole_3.2mm_M3,MountingHole,tht
+136.5405,52.814,0.0,top,H2,,,MountingHole_3.2mm_M3,MountingHole,tht
+136.5375,6.876,0.0,top,H3,,,MountingHole_3.2mm_M3,MountingHole,tht
+81.4195,6.749,0.0,top,H4,,,MountingHole_3.2mm_M3,MountingHole,tht
+48.815,20.395,0.0,top,J10,,,PinHeader_1x04_P2.54mm_Vertical,RS485_M,tht
+56.625,20.375,0.0,top,J11,,,PinHeader_1x01_P2.54mm_Vertical,NC (test led),tht
+89.2145,9.7595,0.0,top,J2,,,"PhoenixContact_GMSTBA_2,5_6-G-7,62_1x06_P7.62mm_Horizontal",220V IN,tht
+67.9545,6.482,0.0,top,J4,,,"PhoenixContact_MCV_1,5_2-G-3.5_1x02_P3.50mm_Vertical",BUTON Power,tht
+33.95,33.4,0.0,top,J5,,,PinHeader_1x01_P2.54mm_Vertical,NC (test led),tht
+14.625,3.315,-90.0,top,J6,,,PinHeader_1x04_P2.54mm_Vertical,CONSOLA,tht
+12.64,53.2,90.0,top,J7,,,PinHeader_1x08_P2.54mm_Vertical,LEDS,tht
+63.8745,30.482,90.0,top,J8,,,PinHeader_1x03_P2.54mm_Vertical,LED,tht
+4.815,12.815,180.0,top,J9,,,PinHeader_1x04_P2.54mm_Vertical,RS485_uC,tht
+61.9545,47.422,90.0,top,Q2,,,TO-126-3_Vertical,BD139,tht
+23.775,38.445,90.0,top,R10,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1K,tht
+27.077,38.445,90.0,top,R11,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1K,tht
+30.351,38.445,90.0,top,R12,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1K,tht
+56.9545,40.562,-90.0,top,R13,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,360R,tht
+48.98,46.825,180.0,top,R14,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,10K,tht
+16.395,8.315,180.0,top,R15,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,10K,tht
+52.9545,36.292,-90.0,top,R2,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1k,tht
+38.8745,49.982,0.0,top,R3,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1K,tht
+66.4545,49.562,-90.0,top,R4,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,360R,tht
+52.9545,39.902,90.0,top,R5,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,10K,tht
+10.694,38.445,90.0,top,R6,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1K,tht
+13.869,38.445,90.0,top,R7,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1K,tht
+17.171,38.445,90.0,top,R8,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1K,tht
+20.473,38.445,90.0,top,R9,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1K,tht
+84.234,36.617,-90.0,top,RL1,,,891WP-1A-C,891WP-1A-C,tht
+59.625,4.815,-90.0,top,SENZOR_D1,,,PinHeader_1x04_P2.54mm_Vertical,SENZOR_D,tht
+117.4545,31.482,180.0,top,T1,,,Trafo_10V,Transformer_1P_1S,tht
+9.615,11.695,90.0,top,U1,,,DIP-28_W7.62mm,ATmega328P-P,tht
+46.075,27.248,180.0,top,U2,,,Sursa_adj_5V,XL4016_ADJ,tht
+48.7595,36.137,180.0,top,U3,,,DIP-6_W7.62mm,4N25,tht
+12.86,25.94,90.0,top,U4,,,DIP-16_W7.62mm_LongPads,ULN2003,tht
+29.255,6.815,180.0,top,Y1,,,Crystal_HC49-4H_Vertical,16MHz,tht

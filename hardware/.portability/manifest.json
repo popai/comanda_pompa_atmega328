@@ -1,0 +1,42 @@
+{
+  "backed_up": [
+    {
+      "path": "comanda_pompa_ A0121A4.kicad_sch",
+      "backup": "backup/comanda_pompa_ A0121A4.kicad_sch"
+    },
+    {
+      "path": "sym-lib-table",
+      "backup": "backup/sym-lib-table"
+    },
+    {
+      "path": "comanda_pompa_ A0121A4.kicad_pcb",
+      "backup": "backup/comanda_pompa_ A0121A4.kicad_pcb"
+    },
+    {
+      "path": "fp-lib-table",
+      "backup": "backup/fp-lib-table"
+    }
+  ],
+  "created_files": [
+    "libs/MyLib_local.kicad_sym",
+    "libs/MyLib_local.pretty/Sursa_adj_5V.kicad_mod",
+    "libs/MyLib_local.pretty/Trafo_10V.kicad_mod",
+    "libs/MyLib_local.pretty/891WP-1A-C.kicad_mod"
+  ],
+  "created_dirs": [
+    "libs",
+    "libs/MyLib_local.pretty"
+  ],
+  "summary": {
+    "symbols": {
+      "libraries": 1,
+      "files_copied": 1,
+      "remapped": 2
+    },
+    "footprints": {
+      "libraries": 1,
+      "files_copied": 3,
+      "remapped": 3
+    }
+  }
+}

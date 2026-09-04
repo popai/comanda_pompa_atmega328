@@ -674,7 +674,7 @@
         "uuid": "76b4cf66-23e8-46bc-9f53-1ccbb0fed5ad"
       }
     ],
-    "used_designators": "U1-5,U7,K1,Q1-3,Q6-7,RL1,SENZOR_D1,D2,D7,D10,T1,#PWR1-23,#PWR30,#PWR41-42,#PWR68-69,#PWR74-75,#PWR99,#PWR104,#PWR119,#FLG1-3,R2-15,R25,R37-40,R43-45,R57,J1-2,J4-11,C1-3,C30-31,C33,JP1,Y1,H1-4",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [

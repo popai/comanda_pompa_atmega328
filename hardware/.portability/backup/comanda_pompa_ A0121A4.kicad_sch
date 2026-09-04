@@ -5723,16 +5723,6 @@
 		)
 		(uuid "06376de5-6472-4530-9bb4-496e8b6e153b")
 	)
-	(text "https://www.drot.ro/platforma-arduino/121946-modul-step-down-4a-xl4015-dc-dc-cc-cv.html"
-		(exclude_from_sim no)
-		(at 94.742 184.912 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "16f35bc9-3999-495d-a160-6ab31e169705")
-	)
 	(text "MIJLOC"
 		(exclude_from_sim no)
 		(at 105.41 96.012 0)
@@ -9760,7 +9750,7 @@
 				)
 			)
 		)
-		(property "Value" "XL4015"
+		(property "Value" "XL4016_ADJ"
 			(at 101.6 154.94 0)
 			(show_name no)
 			(do_not_autoplace no)
